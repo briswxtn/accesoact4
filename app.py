@@ -3,7 +3,7 @@ st.title("Control de acceso")
 
 edad = st.number_input(
   "Edad: ",
-  min_value=0
+  min_value=0,
   value=18
   )
 
